@@ -1,0 +1,3 @@
+DirectoryIndex main.html
+RewriteEngine On
+RewriteRule	^main$	www.equivalentexchangerecords.us
